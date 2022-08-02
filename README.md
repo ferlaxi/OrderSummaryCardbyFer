@@ -11,4 +11,4 @@
 ## Author
 
 - Frontend Mentor - [@ferlaxi](https://www.frontendmentor.io/profile/ferlaxi)
-- Live Site URL: [Order Summary Card]() 🌐
+- Live Site URL: [Order Summary Card](https://ferlaxi.github.io/OrderSummaryCardbyFer/) 🌐
